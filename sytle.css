@@ -1,3 +1,9 @@
 .color-special{
     background-color: darkgrey;
 }
+.gambar-bulat {
+    width: 200px;      /* Atur ukuran sesuai kebutuhan */
+    height: 200px;
+    object-fit: cover; /* Biar gambar nggak gepeng */
+    border-radius: 50%;
+}
