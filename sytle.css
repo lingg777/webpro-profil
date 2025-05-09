@@ -2,8 +2,8 @@
     background-color: darkgrey;
 }
 .gambar-bulat {
-    width: 200px;      /* Atur ukuran sesuai kebutuhan */
-    height: 200px;
+    width: 150px;      /* Atur ukuran sesuai kebutuhan */
+    height: 150px;
     object-fit: cover; /* Biar gambar nggak gepeng */
     border-radius: 50%;
 }
